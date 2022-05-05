@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helped pinpoint the block of code that were different in each other,but i still had to look over it thoroughly and i could still miss some changes. It also did not pipoint the exxact line of code that had the difference, so when i opened the full code i had to scroll through all 1000 lines to find where the difference took place so i could modify the code myself.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+The main thought is that if i found myself in a point that i had done some modifications to a code that didn't work out in the way that i wanted and i  that a previous version was more suitable for the job, i could immediately switch up to that old version.
