@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Because this way i have created a repository in my directory and now i can create commits and see version history of my files contained within the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a medium and temporary area as it temporarily stores all the files to be commited in a single commit command. It holds files from the working directory to be commited to the repository.
