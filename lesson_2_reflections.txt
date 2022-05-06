@@ -17,3 +17,7 @@ Branches would help if i would want to try something new on code or make a diffe
 How do the diagrams help you visualize the branch structure?
 
 It helps vizualize the history of how each branch forms and continues separately from the others.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a new master branch which contains all the changes made in master branch after branch point and all of the changes introduced in the coins branch. We represent it that way because coins branch is merged into master branch and the master branch continues onward like this.
