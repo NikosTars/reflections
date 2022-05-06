@@ -13,3 +13,7 @@ Check differences between modified files and staged area using git diff _>Add fi
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would help if i would want to try something new on code or make a different edition of the code like easy mode. This would help in a way that i could switch up between 2 versions while them being both functional. Also, i could tryout new things without the risk of ruining the main branch.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps vizualize the history of how each branch forms and continues separately from the others.
