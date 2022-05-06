@@ -21,3 +21,8 @@ It helps vizualize the history of how each branch forms and continues separately
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a new master branch which contains all the changes made in master branch after branch point and all of the changes introduced in the coins branch. We represent it that way because coins branch is merged into master branch and the master branch continues onward like this.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Time eficcient
+Cons: in case of conflict, the authors must then manually chose and edit which changes to keep and drop.
