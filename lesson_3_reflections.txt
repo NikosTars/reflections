@@ -9,3 +9,7 @@ Because you may try something online on github that isn't a complete logical ste
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A fork is a clone online on github and i would use it if i want to modify another person's code without changing his original code. I would use clone if i would like to copy and modify the same code. I would use branches if i would like to try something new on a code without caring if it will actually work or not or if it will ruin the base functioning version. I would also use branch if 2 different people are working on the same code and merge the branches when they are done.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To know what modifications to the code may have been introduced online, so as to resolve conflict issues when pulling. (Different modifications online vs different modifications offline)
