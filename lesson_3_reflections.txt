@@ -17,3 +17,7 @@ To know what modifications to the code may have been introduced online, so as to
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git or Github it would be a lot harder and frustating as we would have different files and would have to manually scroll into each of them and keep the changes that we want.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If more than 1 people are working on code online and i wanted to introduce a modification, i would create a branch for it in order to not ruin the master. While i work on my modifications, the original master online could be modified as well, so in order to reflect those changes i would need to pull the online master, merge it with my branch offline in order to have those changes and then do a pull request so the moderator could then decide to add or not the modifications i made and to resolve any conflict issues.
